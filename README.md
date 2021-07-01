@@ -1,6 +1,8 @@
 # PEBL: Pessimistic Ensembles for Offline Deep Reinforcement Learning
 Code accompanying "PEBL: Pessimistic Ensembles for Offline Deep Reinforcement Learning" by Jordi Smit, Canmanie T. Ponnambalam, Matthijs T. J. Spaan, Frans A. Oliehoek.
 
+The optimization related code for the PEBL DQN algorithm can be found [here](https://github.com/j0rd1smit/PEBL/blob/main/src/agents/PEBLDQN.py#L219), while this code can be found [here](https://github.com/j0rd1smit/PEBL/blob/main/src/agents/PEBLSAC.py#L272) for the PEBL SAC algorithm.
+
 ## Abstract
 Offline reinforcement learning (RL), or learning from a fixed data set, is an attractive alternative to online RL.
 Offline RL promises to address the cost and safety implications of taking numerous random or bad actions online, a crucial aspect of traditional RL that makes it difficult to apply in real-world problems. 
