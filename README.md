@@ -16,6 +16,7 @@ Our approach is applied to benchmark offline deep RL domains, where we demonstra
 
 ## Demo
 ![Maze2D demo](images/maze2d_demo.gif)
+
 A visualization of our Maze2D expirements.
 In this experiment, the agents must learn a continuous action policy that can move a ball from any point in a maze to a pre-specified point. 
 The data set used in this task consist of random routes through the maze. 
