@@ -1,0 +1,5 @@
+lightning_logs
+data/dataset/FDPO
+data/dataset/FDPOMixture
+/**/__pycache__
+.idea

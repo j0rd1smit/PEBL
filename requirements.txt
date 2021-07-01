@@ -1,0 +1,11 @@
+pytorch-lightning==1.2.10
+torch==1.8.1
+gym==0.18.0
+numpy>=1.16.6
+mujoco_py==2.0.2.8
+dm_control
+scipy>=1.6.1
+git+https://github.com/ntasfi/PyGame-Learning-Environment.git@3dbe79dc0c35559bb441b9359948aabf9bb3d331
+git+https://github.com/kenjyoung/MinAtar.git@8fceb584a00d86a3294c2d6ffb6fb8d93496b6a5#egg=MinAtar
+git+https://github.com/rail-berkeley/d4rl@517bb3158a87657121d59cfdc4678b4d31b72084#egg=d4rl
+git+https://github.com/qlan3/gym-games@3ce48a6d6c241462c08f32f46b1ca83c8a5ab128#egg=gym_games
