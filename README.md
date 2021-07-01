@@ -58,7 +58,8 @@ python train_pebldqn.py \
 
 The PEBL SAC agent can be trained on the D4RL gym and maze-2d benchmarks using:
 ```bash
-python --env_name.py \
+python train_peblsac.py \
+  --env_name.py \
   --env_name ENV_NAME \
   --gpu GPU \
   --seed SEED\
